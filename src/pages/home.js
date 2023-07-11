@@ -20,7 +20,7 @@ const Home = () => {
     <> 
        <div className='containerr'>
          <div className='section'>
-            <h1>Little Lemmone</h1>
+            <h1>Little Lemon</h1>
             <h2>Chicago</h2>
             <p> We are a family owned Mediterranean restaurant,<br></br> 
             focused on traditional recipes served with a modern twist.
