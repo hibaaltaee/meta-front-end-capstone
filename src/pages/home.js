@@ -60,7 +60,7 @@ const Home = () => {
             </div>
             <div className='card1'>
                 <img src={desert}></img>
-                <h4>Lemone desert</h4>
+                <h4>Lemon dessert</h4>
                 <p>12.99 $</p>
                 <p>This comes straight from grandma's <br></br>recipe
                 book, every last ingredient  <br></br> has been 
